@@ -8,7 +8,7 @@ export default function App() {
   let indexRandom = Math.floor(Math.random() * Quote.length);
 
   const colors = [
-    "#9C622D",
+    "#9C622E",
     "#2D9C39",
     "#2D8C9C",
     "#2D2F9C",
